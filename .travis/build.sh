@@ -2,7 +2,7 @@
 # Base on script provided by rdemachkovych
 # Some basic variables
 GIT_MAIL="kaarol@it-flow.pl"
-GIT_USER="kaarolch"
+GIT_USER="jadiy"
 ORGANIZATION=$(echo "$TRAVIS_REPO_SLUG" | awk -F '/' '{print $1}')
 PROJECT=$(echo "$TRAVIS_REPO_SLUG" | awk -F '/' '{print $2}')
 

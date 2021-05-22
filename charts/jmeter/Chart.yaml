@@ -2,10 +2,10 @@ name: jmeter
 description: 'Ditributed jmeter test workflow inside kuberentes'
 version: 0.2.0
 appVersion: "4.0"
-home: https://github.com/kaarolch/kubernetes-jmeter
-icon: https://kaarolch.github.io/kubernetes-jmeter/images/jmeter-k8s.png
+home: https://github.com/jadiy/kubernetes-jmeter
+icon: https://jadiy.github.io/kubernetes-jmeter/images/jmeter-k8s.png
 sources:
-  - https://github.com/kaarolch/kubernetes-jmeter
+  - https://github.com/jadiy/kubernetes-jmeter
 maintainers:
   - name: Karol Chrapek
     email: kaarol@it-flow.pl

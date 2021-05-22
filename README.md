@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/kaarolch/kubernetes-jmeter.svg?branch=master)](https://travis-ci.org/kaarolch/kubernetes-jmeter)
+[![License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/jadiy/kubernetes-jmeter.svg?branch=master)](https://travis-ci.org/jadiy/kubernetes-jmeter)
 # kubernetes-jmeter
 
 Jmeter test workload inside kubernetes. [Jmeter](charts/jmeter) chart bootstraps an Jmeter stack on a Kubernetes cluster using the Helm package manager.
@@ -14,12 +14,12 @@ Currently [jmeter](charts/jmeter) helm chart deploy:
 ## Installation
 Using helm repo:
 ```
-helm repo add k8s-jmeter https://kaarolch.github.io/kubernetes-jmeter/charts/
+helm repo add k8s-jmeter https://jadiy.github.io/kubernetes-jmeter/charts/
 ```
 
 Old way: Using local copy of git repository:
 ```
-git clone git@github.com:kaarolch/kubernetes-jmeter.git
+git clone git@github.com:jadiy/kubernetes-jmeter.git
 cd kubernetes-jmeter/charts/jmeter
 helm install -n test ./
 ```
