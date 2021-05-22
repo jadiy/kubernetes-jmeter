@@ -9,3 +9,10 @@ sources:
 maintainers:
   - name: Karol Chrapek
     email: kaarol@it-flow.pl
+dependencies: 
+  - name: influxdb
+    version: 4.9.14
+    repository: https://github.com/influxdata/influxdb
+  - name: grafana
+    version: 6.9.1
+    repository: https://github.com/grafana/grafana
