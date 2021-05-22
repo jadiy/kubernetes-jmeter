@@ -1,7 +1,0 @@
-dependencies:
-- name: grafana
-  repository: https://github.com/grafana/grafana
-  version: 6.9.1
-- name: influxdb
-  repository: https://github.com/influxdata/influxdb
-  version: 4.9.14
