@@ -14,8 +14,8 @@ entries:
     sources:
     - https://github.com/jadiy/kubernetes-jmeter
     urls:
-    - https://jadiy.github.io/kubernetes-jmeter/charts/jmeter-0.1.0.tgz
-    version: 0.1.0
+    - https://jadiy.github.io/kubernetes-jmeter/charts/jmeter-0.2.1.tgz
+    version: 0.2.1
   - appVersion: "4.0"
     created: 2018-09-28T14:19:55.575789177+02:00
     description: Ditributed jmeter test workflow inside kuberentes
